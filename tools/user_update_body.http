@@ -1,0 +1,12 @@
+###
+@id =2
+PUT http://localhost:8080/user/update/body
+Content-Type: application/json
+
+{
+  "id": {{id}},
+  "name": "Andrey",
+  "age":  "49",
+  "email": "andrey.nemo.an@gmail.com"
+}
+###

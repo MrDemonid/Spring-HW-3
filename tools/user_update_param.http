@@ -1,0 +1,8 @@
+###
+@id=2
+@name=Andrey
+@age=50
+@email=andrey.nemo@gmail.com
+PUT http://localhost:8080/user/update/param?id={{id}}&name={{name}}&age={{age}}&email={{email}}
+
+###

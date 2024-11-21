@@ -1,0 +1,10 @@
+###
+POST http://localhost:8080/user/body
+Content-Type: application/json
+
+{
+  "name": "Andrey",
+  "age":  "21",
+  "email": "andnot@yandex.ru"
+}
+###

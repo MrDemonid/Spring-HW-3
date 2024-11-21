@@ -1,0 +1,5 @@
+###
+@id=2
+DELETE http://localhost:8080/user/delete/{{id}}
+
+###

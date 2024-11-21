@@ -1,0 +1,5 @@
+### GET request to example server
+@age=30
+GET http://localhost:8080/task/filter/{{age}}
+
+###
